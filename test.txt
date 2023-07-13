@@ -1,0 +1,6 @@
+id	title	description	link	image_link	additional_image_link	additional_image_link	additional_image_link	additional_image_link	additional_image_link	availability	price	google_product_category	product_type	brand	gtin	mpn	condition	multipack	is_bundle	color	material	item_group_id	product_length	product_width	product_height	product_weight	product_detail	product_highlight	shipping	shipping_label	shipping_weight	shipping_length	shipping_width	shipping_height
+90/ABK	Westminster Reference Bible (hardback)	Medium print Bible with double column references. Vinyl covered hardback. Authorised (King James) Version.	https://www.tbsbibles.org/store/viewproduct.aspx?id=9074718							in_stock	15.5	Media > Books > Print Books	English Scriptures > Bibles with References	Trinitarian Bible Society	9781862281493	90/ABK	new		no	Black						1.1	"Westminster Reference Bible in black vinyl covered hardback. This Bible contains over two hundred thousand cross references, and also features a concordance and 8 full-colour maps. [Was 90A]"	Medium print Bible with double column references. Vinyl covered hardback. Authorised (King James) Version.						
+																																		
+																																		
+																																		
+ 																																		
